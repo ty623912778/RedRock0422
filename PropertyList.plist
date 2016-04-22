@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>createdAt</key>
+		<string>8.23</string>
+		<key>mbtype</key>
+		<string>1.png</string>
+		<key>profileImageUrl</key>
+		<string>2.png</string>
+		<key>source</key>
+		<string>iPhone 5s</string>
+		<key>text</key>
+		<string>ty;</string>
+		<key>userName</key>
+		<string>田媛</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2</string>
+		<key>createdAt</key>
+		<string>9.24</string>
+		<key>mbtype</key>
+		<string>3.png</string>
+		<key>profileImageUrl</key>
+		<string>4.png</string>
+		<key>source</key>
+		<string>iPhone 6s</string>
+		<key>text</key>
+		<string>zw;</string>
+		<key>userName</key>
+		<string>田媛1</string>
+	</dict>
+</array>
+</plist>
